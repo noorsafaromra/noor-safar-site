@@ -109,7 +109,7 @@ const CONTACT = {
   phone: "+33 7 49 66 96 20",
   whatsapp: "+33 7 49 66 96 20",
   email: "contact@noorsafaromra.com",
-  instagram: "@noorsafar.accompagnement",
+  instagram: "@noorsafaraccompagnement",
   facebook: "Noor Safar",
 };
 
